@@ -1,0 +1,2 @@
+2|Chevrolet |Camaro |2019|100.00|0|7|700.00|Zoubeir Hicheri|75412385
+3|Hyndai|Grand i10|2021|75.00|1|0|0.00||
